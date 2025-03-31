@@ -28,4 +28,4 @@
 <br>
 
 ## 📒 PPT 및 개발일지
-- [notion]([https://enormous-iron-b03.notion.site/1968132285b680708ad9f2b9a355904c](https://www.notion.so/1b18132285b680adba51c88c90ef7a45))
+- [notion](https://enormous-iron-b03.notion.site/1b18132285b680adba51c88c90ef7a45?pvs=74)
