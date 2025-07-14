@@ -45,6 +45,9 @@
 - 잠재 고객 행동 데이터를 통해 수익 예측 모델 개발
 - ***모델*** : `LightGBM`
 
+#### 5️⃣ 5차 : Tableau 대시보드 구축
+- 분석 지표 및 예측 모델 결과 시각화
+- [Tableau Dashboard](https://public.tableau.com/shared/2YWQ6GRJR?:display_count=n&:origin=viz_share_link)
 <br>
 
 ## 📒 PPT 및 개발일지
